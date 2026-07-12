@@ -16501,7 +16501,8 @@ Project Style1
 }
 
 .comment-form__input-box input[type="text"],
-.comment-form__input-box input[type="email"] {
+.comment-form__input-box input[type="email"],
+.comment-form__input-box input[type="number"] {
   height: 60px;
   width: 100%;
   border: none;
@@ -16661,7 +16662,8 @@ Project Style1
 }
 
 .contact-page__bottom .comment-form__input-box input[type="text"],
-.contact-page__bottom .comment-form__input-box input[type="email"] {
+.contact-page__bottom .comment-form__input-box input[type="email"],
+.contact-page__bottom .comment-form__input-box input[type="number"] {
   background-color: var(--datawyn-white);
 }
 
