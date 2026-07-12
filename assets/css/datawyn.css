@@ -945,7 +945,7 @@ ul {
 }
 
 .main-header__contact-list li .text p a:hover {
-  color: var(--datawyn-base);
+  color: var(--datawyn-gray);
 }
 
 .main-header__top-menu {
