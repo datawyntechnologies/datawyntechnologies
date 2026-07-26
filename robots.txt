@@ -1,0 +1,16 @@
+# robots.txt for Datawyn Technologies
+
+User-agent: *
+Allow: /
+
+# Block sensitive folders
+Disallow: /admin/
+Disallow: /dashboard/
+Disallow: /login/
+Disallow: /register/
+Disallow: /api/
+Disallow: /private/
+Disallow: /temp/
+
+# Sitemap
+Sitemap: https://datawyntechnologies.com/sitemap.xml
