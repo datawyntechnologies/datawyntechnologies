@@ -1163,7 +1163,7 @@ $('.portfolio-two__carousel').owlCarousel({
             items: 1
         },
         992: {
-            items: 3
+            items: 2
         }
     }
 });
